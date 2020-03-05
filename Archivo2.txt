@@ -1,3 +1,5 @@
 Hagamos un stage.
 Hagamos un stage.
-Hagamos un stage
+Hagamos un stage.
+
+Hagamos un stage despues de primer push.
